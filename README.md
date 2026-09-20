@@ -10,7 +10,7 @@ Samadhan Setu creates a simple, intuitive digital collaboration layer to collect
 ## 📸 Platform Previews
 
 ### Citizen Portal
-<img width="1600" height="1255" alt="Citizen Portal Dashboard" src="https://github.com/user-attachments/assets/9f2ebb42-7e38-4092-8e6c-6d5127a038f4" />
+<img width="1242" height="872" alt="Citizen Portal Dashboard" src="https://github.com/user-attachment>s/assets/4ceceeac-3f7a-4ab1-9afc-925584aca4b9" />
 
 ### Government Command Center
 <img width="1242" height="872" alt="Government Command Center Dashboard" src="https://github.com/user-attachments/assets/b707cfe5-e57a-4f1f-8bd4-e0cd380bf428" />
